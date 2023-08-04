@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hydroponics</string>
+    <string name="tank_label">Tank(cm)</string>
+    <string name="humidity_label">Humidity(%)</string>
+    <string name="temperature_label">Temperature(C)</string>
+    <string name="ph_label">pH</string>
+    <string name="tds_label">TDS(ppm)</string>
+    <string name="upd_tms_label">Last update</string>
+</resources>
