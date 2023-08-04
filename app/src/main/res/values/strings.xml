@@ -6,4 +6,6 @@
     <string name="ph_label">pH</string>
     <string name="tds_label">TDS(ppm)</string>
     <string name="upd_tms_label">Last update</string>
+    <string name="ip_text_hint">IP address</string>
+    <string name="connect_btn_label">Connect</string>
 </resources>
