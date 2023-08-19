@@ -8,4 +8,7 @@
     <string name="upd_tms_label">Last update</string>
     <string name="ip_text_hint">IP address</string>
     <string name="connect_btn_label">Connect</string>
+    <string name="elapsed_days_text">Day %1$d</string>
+    <string name="cmd_btn_start">Start</string>
+    <string name="cmd_btn_harvest">Harvest</string>
 </resources>
